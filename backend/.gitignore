@@ -16,4 +16,4 @@ yarn-error.log
 
 /public/css
 /public/js
-/public/index.html
+/resources/views/index.html

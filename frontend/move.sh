@@ -7,4 +7,5 @@ if [ -d ../backend/public/js ];then
 fi
 
 mv -f dist/* ../backend/public
+mv ../backend/public/index.html ../backend/resources/views/index.html
 rm -rf dist
